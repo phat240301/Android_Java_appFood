@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/home"
+        android:title="Trang Chủ"
+        app:showAsAction="ifRoom"
+        android:icon="@android:drawable/ic_menu_view" />
+<!--    <item-->
+<!--        android:id="@+id/listpost"-->
+<!--        android:title="Bài "-->
+<!--        app:showAsAction="ifRoom"-->
+<!--        android:icon="@drawable/ic_post"/>-->
+    <item
+        android:id="@+id/addOption"
+        android:title="Thêm"
+        app:showAsAction="ifRoom"
+        android:icon="@android:drawable/ic_input_add"/>
+    <item
+        android:id="@+id/listfood"
+        android:title="Thức ăn"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/ic_list"/>
+<!--    <item-->
+<!--        android:id="@+id/listuser"-->
+<!--        android:title="Danh sách user"-->
+<!--        app:showAsAction="ifRoom"-->
+<!--        app:itemIconTint="@color/black"-->
+<!--        app:itemTextColor="@color/white"-->
+<!--        android:icon="@drawable/ic_upervised_user_circle"/>-->
+    <item
+        android:id="@+id/detailpost"
+        android:title="chi tiet bai viet"
+        app:showAsAction="ifRoom"
+        app:itemIconTint="@color/black"
+        app:itemTextColor="@color/white"
+        android:icon="@drawable/ic_read_more"/>
+    <item
+        android:id="@+id/accountprofile"
+        android:title="Thêm"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/ic_baseline_person"/>
+</menu>

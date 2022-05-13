@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="10dp"
+    tools:context=".AddFoodActivity"
+    android:background="@drawable/backgroundfood"
+    android:gravity="center">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/magz"
+        android:text="Thêm Món ăn"
+        android:textColor="#35409C"
+        android:textSize="40sp"
+        android:textStyle="bold" />
+    <ImageView
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:src="@android:drawable/ic_input_add"
+        android:id="@+id/ImageFood"
+        />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="90dp">
+        <ImageButton
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:src="@android:drawable/ic_input_add"
+            android:id="@+id/editImage"
+            android:layout_marginRight="30dp"
+            />
+        <ImageButton
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:src="@android:drawable/ic_menu_camera"
+            android:id="@+id/editImageCapture"
+            />
+    </LinearLayout>
+
+    <EditText
+        android:id="@+id/editTextName"
+        android:layout_width="300sp"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="Tên Món Ăn"
+        android:inputType="textPersonName"
+        android:textSize="20sp"
+        android:layout_marginTop="10sp"/>
+
+    <EditText
+        android:id="@+id/editTextPrice"
+        android:layout_width="300sp"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="Giá"
+        android:inputType="number"
+        android:textSize="20sp"
+        android:layout_marginTop="10sp"/>
+
+    <EditText
+        android:id="@+id/editTextDescription"
+        android:layout_width="300sp"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:gravity="start|top"
+        android:hint="Mô Tả"
+        android:inputType="textMultiLine"
+        android:textSize="20sp"
+        android:layout_marginTop="10sp"/>
+
+
+    <TextView
+        android:layout_width="300sp"
+        android:layout_height="wrap_content"
+        android:id="@+id/textQuanAnOruser"
+        android:text="Quan An 1"
+        android:textSize="20sp"
+        android:layout_marginTop="10sp"/>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:weightSum="10"
+        android:layout_marginRight="20sp"
+        android:layout_marginTop="20sp">
+
+        <Button
+            android:id="@+id/buttonSave"
+            android:layout_width="20sp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="50sp"
+            android:layout_weight="5"
+            android:layout_marginRight="20sp"
+            android:text="Thêm" />
+
+        <Button
+            android:id="@+id/buttonCancel"
+            android:layout_width="20sp"
+            android:layout_height="wrap_content"
+            android:layout_weight="5"
+            android:text="Hủy" />
+    </LinearLayout>
+</LinearLayout>

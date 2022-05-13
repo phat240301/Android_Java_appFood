@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AppFoodyyy/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/AppFoodyyy/app/src/main/res/layout/activity_add_food.xml" value="0.11141304347826086" />
+        <entry key="..\:/AppFoodyyy/app/src/main/res/layout/activity_home.xml" value="0.11141304347826086" />
+        <entry key="..\:/AppFoodyyy/app/src/main/res/layout/activity_list_food.xml" value="0.25" />
+        <entry key="..\:/AppFoodyyy/app/src/main/res/layout/activity_login.xml" value="0.11141304347826086" />
+        <entry key="..\:/AppFoodyyy/app/src/main/res/layout/activity_login_user.xml" value="0.20416666666666666" />
+        <entry key="..\:/AppFoodyyy/app/src/main/res/layout/activity_main.xml" value="0.17" />
+        <entry key="..\:/AppFoodyyy/app/src/main/res/layout/activity_sign_up.xml" value="0.11141304347826086" />
+        <entry key="..\:/AppFoodyyy/app/src/main/res/layout/activity_sign_up_user.xml" value="0.20416666666666666" />
+        <entry key="..\:/AppFoodyyy/app/src/main/res/layout/activity_update_delete.xml" value="0.20416666666666666" />
+        <entry key="..\:/AppFoodyyy/app/src/main/res/layout/activity_update_food.xml" value="0.15151515151515152" />
+        <entry key="..\:/AppFoodyyy/app/src/main/res/layout/dialog_sua.xml" value="0.1956521739130435" />
+        <entry key="..\:/AppFoodyyy/app/src/main/res/layout/thuc_an_layout.xml" value="0.21" />
+        <entry key="..\:/AppFoodyyy/app/src/main/res/menu/bottom_navi.xml" value="0.20416666666666666" />
+        <entry key="..\:/AppFoodyyy/app/src/main/res/menu/main_menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ASUS/Desktop/AppFoodyyy/app/src/main/res/drawable-v24/border_new.xml" value="0.2555" />
+        <entry key="..\:/Users/ASUS/Desktop/AppFoodyyy/app/src/main/res/drawable-v24/ic_baseline_account_circle_24.xml" value="0.2035" />
+        <entry key="..\:/Users/ASUS/Desktop/AppFoodyyy/app/src/main/res/drawable-v24/round_bg.xml" value="0.121" />
+        <entry key="..\:/Users/ASUS/Desktop/AppFoodyyy/app/src/main/res/drawable-v24/round_border.xml" value="0.121" />
+        <entry key="..\:/Users/ASUS/Desktop/AppFoodyyy/app/src/main/res/drawable-v24/round_btn.xml" value="0.121" />
+        <entry key="..\:/Users/ASUS/Desktop/AppFoodyyy/app/src/main/res/drawable-v24/round_image_black.xml" value="0.1" />
+        <entry key="..\:/Users/ASUS/Desktop/AppFoodyyy/app/src/main/res/drawable/ic_favorite.xml" value="0.121" />
+        <entry key="..\:/Users/ASUS/Desktop/AppFoodyyy/app/src/main/res/drawable/ic_favorite_border.xml" value="0.121" />
+        <entry key="..\:/Users/ASUS/Desktop/AppFoodyyy/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2555" />
+        <entry key="..\:/Users/ASUS/Desktop/AppFoodyyy/app/src/main/res/layout/activity_add_food.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/Desktop/AppFoodyyy/app/src/main/res/layout/activity_add_post.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/Desktop/AppFoodyyy/app/src/main/res/layout/activity_detail_post.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/Desktop/AppFoodyyy/app/src/main/res/layout/activity_detial_post.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/Desktop/AppFoodyyy/app/src/main/res/layout/activity_home.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/Desktop/AppFoodyyy/app/src/main/res/layout/activity_list_food.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/Desktop/AppFoodyyy/app/src/main/res/layout/activity_list_post.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/Desktop/AppFoodyyy/app/src/main/res/layout/activity_login_user.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/Desktop/AppFoodyyy/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/Desktop/AppFoodyyy/app/src/main/res/layout/activity_profile.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/Desktop/AppFoodyyy/app/src/main/res/layout/activity_sign_up_user.xml" value="0.4" />
+        <entry key="..\:/Users/ASUS/Desktop/AppFoodyyy/app/src/main/res/layout/activity_update_delete.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/Desktop/AppFoodyyy/app/src/main/res/layout/activity_update_food.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/Desktop/AppFoodyyy/app/src/main/res/layout/dialog_addpost.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/Desktop/AppFoodyyy/app/src/main/res/layout/dialog_rating.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/Desktop/AppFoodyyy/app/src/main/res/layout/dialog_sua.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/Desktop/AppFoodyyy/app/src/main/res/layout/line_comment.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/Desktop/AppFoodyyy/app/src/main/res/layout/line_post.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/Desktop/AppFoodyyy/app/src/main/res/layout/thuc_an_layout.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/Desktop/AppFoodyyy/app/src/main/res/layout/user_layout.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/Desktop/AppFoodyyy/app/src/main/res/menu/bottom_navi.xml" value="0.21481481481481482" />
+        <entry key="..\:/Users/ASUS/Desktop/AppFoodyyy/app/src/main/res/menu/main_menu.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
